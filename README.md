@@ -1,3 +1,3 @@
 # pack-de-mots-Codenames
-des mots pour le jeu [codenames](https://codenames.game/) [FR]
++ de 400 mots pour le jeu [codenames](https://codenames.game/) [FR]
 
